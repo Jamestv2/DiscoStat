@@ -2,12 +2,12 @@
 DiscoStat is a powerful and flexible Discord server status plugin for Rust servers. This plugin seamlessly integrates with Discohook, allowing server administrators to showcase the current status of their server through customizable webhooks.
 
 ##     Features:
-    - Fully customizable webhooks for displaying server status.
-    - Three distinct statuses: Online, Offline, and Restart.
-    - Each status can have its own unique Discord webhook URL and Discohook Sharelink.
-    - In-game commands for administrators to easily set and update webhook configurations.
-    - Automatic reloading of configurations with the "/discoreload" command.
-    - Uses Discohook to send formatted messages to Discord for enhanced visibility.
+* Fully customizable webhooks for displaying server status.
+* Three distinct statuses: Online, Offline, and Restart.
+* Each status can have its own unique Discord webhook URL and Discohook Sharelink.
+* In-game commands for administrators to easily set and update webhook configurations.
+* Automatic reloading of configurations with the "/discoreload" command.
+* Uses Discohook to send formatted messages to Discord for enhanced visibility.
 
 ##     How to Use:
 1. Configure the plugin by setting Discord webhook URLs and Discohook Sharelinks for Online, Offline, and Restart statuses.
