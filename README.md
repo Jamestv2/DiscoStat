@@ -36,7 +36,7 @@ DiscoStat is a powerful and flexible Discord server status plugin for Rust serve
 **The plugin is optimized for performance, avoiding unnecessary heap allocations and utilizing efficient methods for data retrieval.**
 
 ###     Contact:
-**For support or inquiries, reach me using discord, @solorads**
+**For support or inquiries, reach me using discord, @solorads or [solorads.site](https://solorads.site)**
 
 
 # Plugin uses [Discohook](https://https://discohook.org/?data=eyJtZXNzYWdlcyI6W3siZGF0YSI6eyJjb250ZW50IjpudWxsLCJlbWJlZHMiOlt7InRpdGxlIjoiVGhhbmsgeW91IGZvciB1c2luZyBEaXNjb1N0YXQsIERpc2NvU3RhdCB3aWxsIGJlIGFwYXJ0IG9mIHJ1c3R0b29scy5zaXRlIHBsdWdpbnMgYnV0IGZvciBub3cgaXMgYW4gb3BlbiBzb3VyY2UgcHJvamVjdCEiLCJjb2xvciI6MjAzMTg3MX1dLCJmaWxlcyI6W3t9XX19XX0) for webhook customization!
