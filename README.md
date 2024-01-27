@@ -15,25 +15,25 @@ DiscoStat is a powerful and flexible Discord server status plugin for Rust serve
 3. Enjoy real-time updates on your Discord server's status, effortlessly communicated through Discohook.
 
 ###     Permissions:
-    - The plugin doesn't rely heavily on permissions but requires administrator privileges for certain in-game commands.
+The plugin doesn't rely heavily on permissions but requires administrator privileges for certain in-game commands.
 
 ###    Console Commands:
-    - /discoreload - Reloads the DiscoStat configuration.
+/discoreload - Reloads the DiscoStat configuration.
 
 ###    In-Game Commands:
-    - /setdiscohookurl <type> <webhook_url> <sharelink> - Set or update the Discord webhook URL and Discohook Sharelink for a specific status type (online, offline, restart).
+/setdiscohookurl <type> <webhook_url> <sharelink> - Set or update the Discord webhook URL and Discohook Sharelink for a specific status type (online, offline, restart).
 
 ###    Localization:
-    - All messages are in English by default. Localization in other languages can be added using the Lang API.
+All messages are in English by default. Localization in other languages can be added using the Lang API.
 
 ###     Note:
-    - Ensure that DiscoStat is configured with accurate webhook URLs to display server status updates correctly on your Discord server.
+Ensure that DiscoStat is configured with accurate webhook URLs to display server status updates correctly on your Discord server.
 
 ###     License:
-    - This plugin is released under a MIT license.
+This plugin is released under a MIT license.
 
 ###    Performance Considerations:
-    - The plugin is optimized for performance, avoiding unnecessary heap allocations and utilizing efficient methods for data retrieval.
+The plugin is optimized for performance, avoiding unnecessary heap allocations and utilizing efficient methods for data retrieval.
 
 ###     Contact:
-    - For support or inquiries, reach me using discord, @solorads
+For support or inquiries, reach me using discord, @solorads
