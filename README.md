@@ -33,7 +33,7 @@ DiscoStat is a powerful and flexible Discord server status plugin for Rust serve
 **This plugin is released under a MIT license.**
 
 ##    Performance Considerations:
-**[https://docs.google.com/document/d/1Nn-ODG3TtUMWdtx3QOVcX3e3F5QdBXSsiLT5sUlyWGY/edit?usp=sharing](All proformance optimizations are listed on the google document.)**
+**(https://docs.google.com/document/d/1Nn-ODG3TtUMWdtx3QOVcX3e3F5QdBXSsiLT5sUlyWGY/edit?usp=sharing)[All proformance optimizations are listed on the google document.]**
 
 ##     Contact:
 **For support or inquiries, reach me using discord, @solorads or [solorads.site](https://solorads.site)** Or if you'd like to use the rusttools method: **contact@rusttools.site or [rusttools.site](https://rusttools.site) has the rest of contact information.**
